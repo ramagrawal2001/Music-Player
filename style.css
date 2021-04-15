@@ -32,6 +32,7 @@ h1{
 .play-song:hover{
     transform: scale(1.1);
     color:#F80040;
+    cursor: pointer;
 }
 .play-img{
     width:50px;
@@ -52,6 +53,7 @@ h1{
 .fas:hover{
     transform: scale(1.1);
     color:#ffffff;
+    cursor: pointer;
 }
 .con12{
     margin-top: 5%;
@@ -64,6 +66,7 @@ h1{
 .con12 p:hover{
     transform: scale(1.05);
     color:#ffffff;
+    cursor: pointer;
 }
 .con2{
     margin-top: 2%;
